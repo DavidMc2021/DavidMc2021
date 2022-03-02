@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DavidMc2021
 - 👀 I’m interested in Automation, Robotics, TechDev, All things Brazil, and Surfing. 
-- 🌱 I’m currently learning the two most important languates in the world Portuguese and Python. 
+- 🌱 I’m currently learning the two most important languages in the world Portuguese and Python. 
 - 💞️ I’m looking to collaborate on challenging projects
 - 📫 How to reach me dmc@lab0.com
 
